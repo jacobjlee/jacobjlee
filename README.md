@@ -6,8 +6,8 @@
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,java,javascript,typescript,fastapi,nodejs"/><br>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,docker,kubernetes,githubactions,linux"/><br>
+    <img src="https://skillicons.dev/icons?i=python,go,c,java,postgres"/><br>
+    <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,githubactions"/><br>
   </a>
 </p>
 
