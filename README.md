@@ -5,9 +5,9 @@
 <br/>
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,c,java,postgres"/><br>
-    <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,githubactions"/><br>
+  <a href="go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,go,c,java,postgres,linux,bash"/><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,argocd,terraform,aws,docker,kubernetes,grafana,prometheus"/><br>
   </a>
 </p>
 
@@ -15,10 +15,10 @@
 <h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/jacobjhlee/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"/>
   </a>
   <a href="mailto:recipient@jacob.juhyung.lee@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
   </a>
 
 <div id="header" align="center">
