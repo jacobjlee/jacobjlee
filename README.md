@@ -7,7 +7,7 @@
 <p align="center">
   <a href="go-skill-icons.vercel.app">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python,go,c,java,postgres,linux,bash"/><br>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,argocd,terraform,aws,docker,kubernetes,grafana,prometheus"/><br>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,argocd,terraform,aws,docker,kubernetes,prometheus,grafana"/><br>
   </a>
 </p>
 
